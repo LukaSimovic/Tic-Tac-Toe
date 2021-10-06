@@ -1,0 +1,20 @@
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\bin\Debug\XOvsCPU.exe.config
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\bin\Debug\XOvsCPU.exe
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\bin\Debug\XOvsCPU.pdb
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\obj\Debug\XOvsCPU.csprojAssemblyReference.cache
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\obj\Debug\XOvsCPU.Form1.resources
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\obj\Debug\XOvsCPU.Properties.Resources.resources
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\obj\Debug\XOvsCPU.csproj.GenerateResource.cache
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\obj\Debug\XOvsCPU.csproj.CoreCompileInputs.cache
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\obj\Debug\XOvsCPU.exe
+C:\Users\Luka\source\repos\XOvsCPU\XOvsCPU\obj\Debug\XOvsCPU.pdb
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\bin\Debug\XOvsCPU.exe.config
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\bin\Debug\XOvsCPU.exe
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\bin\Debug\XOvsCPU.pdb
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\obj\Debug\XOvsCPU.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\obj\Debug\XOvsCPU.Form1.resources
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\obj\Debug\XOvsCPU.Properties.Resources.resources
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\obj\Debug\XOvsCPU.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\obj\Debug\XOvsCPU.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\obj\Debug\XOvsCPU.exe
+C:\Users\DELL\source\repos\C# Tic-Tac-Toe (XO)\XOvsCPU\obj\Debug\XOvsCPU.pdb
